@@ -71,8 +71,8 @@ DAILY_WITHDRAWAL_LIMIT = 1 ether // Max daily withdrawal
 | Field | Value |
 |-------|-------|
 | **Network** | Ethereum Sepolia Testnet |
-| **ALP Token** | `[TOKEN ADDRESS]` |
-| **CryptoBank** | `[BANK ADDRESS]` |
+| **ALP Token** | `0xF3a2d316A3B16A112564E46419fe007EDFB7A068` |
+| **CryptoBank** | `0x845929171Ef83d76043a29A534C0aff4C82C7816` |
 | **Compiler** | Solidity 0.8.34 |
 
 ---
